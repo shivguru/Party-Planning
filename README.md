@@ -11,10 +11,10 @@ Unfortunately, not all needed tasks can be done simultaneously: For example, Lea
 bake a cake unless all ingredients have been bought before, she cannot decorate the room
 unless it has been cleaned, and she cannot buy the right amount of drinks until she has
 checked all the answers on her RSVP cards. But from many years of experience she knows
-some things. She knows the exact amount of time needed to nish any certain task, and
+some things. She knows the exact amount of time needed to finish any certain task, and
 she knows the dependencies of all the needed tasks, i.e. which task has to be done before
-another can be started. Furthermore, she knows that the rst task has to be to write a
-checklist, and the last task to be completed is to cross o all items on it. But as Lea's
+another can be started. Furthermore, she knows that the first task has to be to write a
+checklist, and the last task to be completed is to cross off all items on it. But as Lea's
 friends are not nearly as organized as she is, she needs to present them with an exact
 schedule so that everyone knows what he or she has to do. Can you help Lea to prepare
 her party as quickly as possible?
